@@ -1,5 +1,5 @@
 # pandas-challenge
-Pandas Homework (Due: 03-27-2021)
+Pandas homework assignment covering the pandas package, pandas dataframes, pandas methods such as .groupby() and .cut(), and formatting summary tables (Due: 03-27-2021)
 
 ## Heroes of Pymoli
 
